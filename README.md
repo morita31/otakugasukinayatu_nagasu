@@ -1,0 +1,1 @@
+# otakugasukinayatu_nagasu
