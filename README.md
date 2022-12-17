@@ -110,4 +110,4 @@ MVPリリース：1/20〆切
 figma https://www.figma.com/file/I92E1REq759iKVRMjOslhx/%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%84%E3%81%A4%E3%80%81%E6%B5%81%E3%81%99?node-id=0%3A1&t=Pes8JEbZck1UHuZ7-1
 
 ## ■ER図
-[![Image from Gyazo](https://i.gyazo.com/9b746d79f5c44c7cd158d847959b3de9.png)](https://gyazo.com/9b746d79f5c44c7cd158d847959b3de9)
+[![Image from Gyazo](https://i.gyazo.com/e99b3201f3432701f59d0c44839bd0a6.png)](https://gyazo.com/e99b3201f3432701f59d0c44839bd0a6)
