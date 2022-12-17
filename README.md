@@ -105,3 +105,6 @@ README〜ER図作成：12/18〆切
 MVPリリース：1/20〆切
 
 本リリース：2/5
+
+## ■画面遷移図
+figma https://www.figma.com/file/I92E1REq759iKVRMjOslhx/%E3%82%AA%E3%82%BF%E3%82%AF%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%AA%E3%82%84%E3%81%A4%E3%80%81%E6%B5%81%E3%81%99?node-id=0%3A1&t=Pes8JEbZck1UHuZ7-1
